@@ -55,17 +55,17 @@ plugins:
 #   - vendor/ruby/
 
 # Banner settings
-video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: UwU # add banner title
-banner-desc: Give scritches? # add banner description
+video: mountains.jpg # add banner video. Add your video file to the folder video
+banner-title: Project Portfolio # add banner title
+banner-desc: aaa # A collection of work by Nine Morch # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name: # your name
+author-name: Nine Morch # your name
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: nmorch@mit.edu # your email
+phone: # your pnone number
+website: # you website
 
 # Social link
 google_url:    # add url link
@@ -76,7 +76,7 @@ dribbble_url:  # add url link
 facebook_url:  # add url link
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
+discus_identifier: # add your discus identifier.  Not your username.  To get this, register your forum here with a unique ID: https://disqus.com/admin/create/
 
 # Newsletter
 mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Design"
+img: placeholdergear.jpg # Add image post (optional)
+date: 2022-09-01 00:00:00 +0004
+description: # Add post description (optional)
+tag: #none 
+---
+
+Aaaa

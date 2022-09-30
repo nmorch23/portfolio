@@ -5,25 +5,18 @@ permalink: /about/
 ---
 
 
-Content content content. 
-
-### Header
-
-content. content content 
-
-<!-- ![meringue tastey](images/meringues.jpg)  -->
-![smallmeringue](images/smallmeringues.jpg)
-<!-- ![medium meringue](images/mediummeringues.jpg) -->
-
-<!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll -->
+### Nine Morch
+#### Mechanical Engineering senior at MIT
+
+My name is Nine Morch. I am currently pursuing a bachelor's in Mechanical Engineering (course 2) at MIT. Additionally, I am pursuing a theatre arts minor (course 21M-2). 
+
+#### Areas of interest
+In Mechanical Engineering, I'm interested in rapid prototyping, especially 3D printing. I'm also interested in projects for sustainable energy. 
+Combining my Mech-E and Theatre studies, I am interested in set design and practical effects, as well as animatronics. 
+
+Outside of my studies and work, I dedicate my time to the <a href="spinning-arts@mit.edu" >MIT Spinning Arts Club</a>, of which I am currently president, and the <a href="https://www.youtube.com/user/mitcentrifugues">MIT Centrifugues</a>, of which I am currently co-music director. 
+
+![Photo of Nine in gold and black concert dress holding microphone](assets/img/fugues.png) ![Photo of Nine performing fire-spinning](assets/img/spinningarts.jpg)
+

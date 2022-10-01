@@ -6,4 +6,19 @@ date: 2022-09-01 00:00:00 +0002
 description: # Add post description (optional)
 tag: #none 
 ---
+The class 2.008: Design and Manufacturing II requires students to spend a semester designing and then manufacturing 50 identical yo-yos. The class taught manufacturing techniques including CNC milling, thermoforming and injection molding. 
+
+While working on the design of the yo-yo, I drew the images which were printed onto the thermoformed plastics or transformed into the 3D textures in the injection molded parts. 
+
+{image of moon design}
+
+Our team imported my grayscale designs into blender, then mapped the values into height values to alter the shape of the 3D object. 
+
+{image of sun background}
+
+The sun background image was printed onto a clear sheet of plastic, then thermoformed. For the ink to not crack while the plastic is stretching, it first needs to be coated with a setting spray. 
+
+{image of completed yoyos}
+
+After completing the requisite 50 yoyos, our team joined the manufacturing challenge and completed another 59 more in the span of nine total hours. 
 

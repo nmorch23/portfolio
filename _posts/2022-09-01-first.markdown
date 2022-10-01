@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FIRST Robotics"
-img: placeholdergear.jpg # Add image post (optional)
+img: placehold.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0005
 description: # Add post description (optional)
 tag: #none 

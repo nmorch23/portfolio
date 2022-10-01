@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Auxetics and Foams"
-img: flexshape-icon.jpg # Add image post (optional)
+img: flex-icon.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0000
 description: # Add post description (optional)
 tag: #none 
@@ -35,3 +35,6 @@ I designed the hinge and vertex system for this shape, which scales to the cube-
 
 There's continual research into the use of different materials, or differently arranged materials, for use in the bodies of soft robots. In this case, my lab was testing different parameters, such as cell density and chord thickness, of structures called "foams" which were printed from a highly elastic rubber material. 
 
+I printed the foams from EPU on a resin printer, then designed and ran tests to determine their material properties. 
+
+{foam image}

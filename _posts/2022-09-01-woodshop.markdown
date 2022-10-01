@@ -1,9 +1,34 @@
 ---
 layout: post
 title: "Woodshop"
-img: placeholdergear.jpg # Add image post (optional)
+img: placehold.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0003
 description: # Add post description (optional)
 tag: #none 
 ---
+
+### REX Week Build Project
+Every year, my college living group builds a large wooden structure for MIT's Residential Exhange Week to show off its creativity. I've participated in building, leading portions of construction efforts, and teaching tool use and safety to other students for three years of projecs.
+
+"Blue Origin" Ferris Wheel: 
+
+Two-story fort: 
+
+Swing ride: 
+
+Three-story "Battlestar" fort build progress: 
+
+Roller Coaster + three story fort + Rockwall build progress: 
+
+MIT News also produced a video about the roller coaster: 
+<iframe width="840" height="630"
+src="https://www.youtube.com/embed/WDyYxEHeG_E">
+</iframe> 
+
+### Room Upgrades
+I worked on projects for my room for several years while at MIT. 
+
+Bed Lofts + Stairs (built in room):
+
+Planter Box: 
 

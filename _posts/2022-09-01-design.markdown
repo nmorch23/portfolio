@@ -7,4 +7,15 @@ description: # Add post description (optional)
 tag: #none 
 ---
 
-Aaaa
+### Stagecraft
+
+In 2019, I participated in the construction of the set for the MIT Music and Theatre Arts department's showing of The One You Feed. The set imitated a house, and was designed to allow the audience to walk through and around the house. 
+
+{the one you feed}
+
+### Set Design
+
+In 2020, I took a class that taught the fundamentals of set design. This is one project from that class: 
+
+{foamcore set}
+

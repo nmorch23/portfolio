@@ -7,4 +7,13 @@ description: # Add post description (optional)
 tag: #none 
 ---
 
-robot
+<a href="https://www.firstinspires.org/">FIRST Robotics</a> is an international grade school-level robotics competition, where students work in teams to build robots to compete 2v2 in a series of games. I participated from age 6 to 18 on a variety of teams. 
+
+In 2015, I was a founding member of the team <a href="https://greengriffins.radrobotics.org/">Green.Griffins; 10092</a>, a community FIRST Tech Challenge team for students in grades 8-12. 
+
+{team}
+
+When I was mechanical lead in the 2016-2017 school year, we built a robot (nicknamed "Slug") which got our team to the Worlds level competition and, while there, entered the game semifinals and placed in both design awards. 
+
+{slug}
+

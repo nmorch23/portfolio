@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FIRST Robotics"
-img: placehold.png # Add image post (optional)
+img: FIRST-icon.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0005
 description: # Add post description (optional)
 tag: #none 
@@ -11,9 +11,13 @@ tag: #none
 
 In 2015, I was a founding member of the team <a href="https://greengriffins.radrobotics.org/">Green.Griffins; 10092</a>, a community FIRST Tech Challenge team for students in grades 8-12. 
 
-{team}
+<img src="../../../assets/img/griffins.jpg" width=550px height=auto/>
 
 When I was mechanical lead in the 2016-2017 school year, we built a robot (nicknamed "Slug") which got our team to the Worlds level competition and, while there, entered the game semifinals and placed in both design awards. 
 
-{slug}
+<img src="../../../assets/img/slug.jpg" width=550px height=auto/>
+
+In my final year on the team, when I was team lead, we built the flat folding robot "Nightwing" which was notable for its ability to lift cleanly and consistently onto the starting structure. 
+
+<img src="../../../assets/img/nightwing.png" width=550px height=auto/>
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Woodshop"
-img: placehold.png # Add image post (optional)
+img: woodshop-icon.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0003
 description: # Add post description (optional)
 tag: #none 
@@ -12,15 +12,32 @@ Every year, my college living group builds a large wooden structure for MIT's Re
 
 "Blue Origin" Ferris Wheel: 
 
-Two-story fort: 
+<img src="../../../assets/img/wood-blueorigin.jpg" width=550px height=auto/>
+
+Three-story fort: 
+
+<img src="../../../assets/img/wood-hexfort.jpg" width=550px height=auto/>
 
 Swing ride: 
 
+<img src="../../../assets/img/wood-swing.jpg" width=550px height=auto/>
+
 Three-story "Battlestar" fort build progress: 
+
+<img src="../../../assets/img/wood-prog1.jpg" width=550px height=auto/>
+
+<img src="../../../assets/img/wood-prog2.jpg" width=550px height=auto/>
 
 Roller Coaster + three story fort + Rockwall build progress: 
 
+<img src="../../../assets/img/wood-coaster.jpg" width=550px height=auto/>
+
+Roller Coaster and Rockwall Fort at night: 
+
+<img src="../../../assets/img/coaster-night.jpg" width=550px height=auto/>
+
 MIT News also produced a video about the roller coaster: 
+
 <iframe width="840" height="630"
 src="https://www.youtube.com/embed/WDyYxEHeG_E">
 </iframe> 
@@ -30,7 +47,14 @@ I worked on projects for my room for several years while at MIT.
 
 Bed Lofts + Stairs (built in room):
 
+<img src="../../../assets/img/wood-loft.jpg" width=550px height=auto/>
+
 Planter Box: 
 
-Trick Box
+<img src="../../../assets/img/planterbox.jpg" width=550px height=auto/>
+
+#### Trick Box
+
 The Trick Box was built as a final project for intro to stagecraft. It has a false lid which turns and shifts dramatically, leading someone to believe they can eventually wiggle it free from the box. The truth is that the false lid is held fast to the sides of the box, and the bottom of the box is removeable. 
+
+<img src="../../../assets/img/trickbox.jpg" width=550px height=auto/>

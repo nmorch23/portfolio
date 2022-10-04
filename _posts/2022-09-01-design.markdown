@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Design"
-img: placehold.png # Add image post (optional)
+img: design-icon.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0004
 description: # Add post description (optional)
 tag: #none 
@@ -11,11 +11,11 @@ tag: #none
 
 In 2019, I participated in the construction of the set for the MIT Music and Theatre Arts department's showing of The One You Feed. The set imitated a house, and was designed to allow the audience to walk through and around the house. 
 
-{the one you feed}
+<img src="../../../assets/img/oneyoufeed-1.jpg" width=400px height=auto/> <img src="../../../assets/img/oneyoufeed-2.jpg" width=400px height=auto/> 
 
 ### Set Design
 
 In 2020, I took a class that taught the fundamentals of set design. This is one project from that class: 
 
-{foamcore set}
+<img src="../../../assets/img/sketch-set.jpg" width=400px height=auto/> <img src="../../../assets/img/foamcore-set.jpg" width=400px height=auto/> 
 

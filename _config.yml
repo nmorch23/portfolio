@@ -55,7 +55,7 @@ plugins:
 #   - vendor/ruby/
 
 # Banner settings
-video: mountains.jpg # add banner video. Add your video file to the folder video
+video: # add banner video. Add your video file to the folder video
 banner-title: Project Portfolio # add banner title
 banner-desc: A collection of work by Nine Morch # add banner description
 

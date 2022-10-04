@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yo-Yo Manufacture Project"
-img: placehold.png # Add image post (optional)
+img: yoyo-icon.png # Add image post (optional)
 date: 2022-09-01 00:00:00 +0002
 description: # Add post description (optional)
 tag: #none 
@@ -10,15 +10,32 @@ The class 2.008: Design and Manufacturing II requires students to spend a semest
 
 While working on the design of the yo-yo, I drew the images which were printed onto the thermoformed plastics or transformed into the 3D textures in the injection molded parts. 
 
-{image of moon design}
+The process of texturing the parts was fairly interesting. First I drew a design in greyscale: 
+
+<img src="../../../assets/img/moon-texture.png" width=550px height=auto/>
 
 Our team imported my grayscale designs into blender, then mapped the values into height values to alter the shape of the 3D object. 
 
-{image of sun background}
+<img src="../../../assets/img/moon-texture-blender.jpg" width=550px height=auto/>
+
+Provided only the z-values were altered across the surface of the sphere, the part was still machineable on a 3-axis CNC mill. 
+
+I also did design for the thermoform parts, both drawing the background image and creating the resin-printed thermoform negatives. 
+
+<img src="../../../assets/img/sun-bg-square.png" width=550px height=auto/>
+
+<img src="../../../assets/img/resin-blank.jpg" width=550px height=auto/>
 
 The sun background image was printed onto a clear sheet of plastic, then thermoformed. For the ink to not crack while the plastic is stretching, it first needs to be coated with a setting spray. 
 
-{image of completed yoyos}
+These were the thermoformed printed pieces, in the middle of testing the coating: 
+
+<img src="../../../assets/img/thermoform.jpg" width=550px height=auto/>
 
 After completing the requisite 50 yoyos, our team joined the manufacturing challenge and completed another 59 more in the span of nine total hours. 
+
+
+<img src="../../../assets/img/yoyo-all.jpg" width=550px height=auto/>
+
+
 

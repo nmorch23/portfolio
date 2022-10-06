@@ -10,7 +10,7 @@ I spent the summer of 2022 working at CSAIL (Computer Science and Artificial Int
 
 ### Project 1: Handed Shearing Auxetics
 
-This project dealt with flattened shapes which expand diagonally on living hinges. I used Rhino + Grasshopper design program to change the parameters of the living hinges and printed them out of FPU on a resin printer, then tested each design to determine which set of parameters best contributed to the expansion of the auxetic shapes. 
+This project dealt with flattened shapes which expand diagonally on living hinges. I used the Rhino + Grasshopper design programs to change the parameters of the living hinges and printed them out of FPU on a resin printer, then tested each design to determine which set of parameters best contributed to the expansion of the auxetic shapes. 
 
 <img src="../../../assets/img/hsa.jpg" width=550px height=auto/>
 
@@ -19,7 +19,7 @@ The shapes were tested on a mechanical testing rig that I designed, built and pr
 <img src="../../../assets/img/flex-rig.png" width=550px height=auto/>
 
 ### Project 2: Flipping Shapes
-griffins
+
 Regular polyhedra each have duals. It's possible to connect the vertices of a polyhedron to the vertices of its dual in such a way that the shape can be "flipped inside-out", which has been put to use in color-flipping toys such as the Hoberman Flip Out. 
 
 This project reconstructed a tetrahedron-tetrahedron flipping shape, as well as a cube-octohedron one, in order to investigate possible methods of actuation. 

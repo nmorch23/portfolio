@@ -20,19 +20,21 @@ Our team imported my grayscale designs into blender, then mapped the values into
 
 Provided only the z-values were altered across the surface of the sphere, the part was still machineable on a 3-axis CNC mill. 
 
+Negatives of each injection molded part were milled from a block of aluminum, then we used the injection molder to create the parts. I participated in the milling and injection molding, as well as analysing the finished plastic parts and measuring them to determine if the press-fit was secure. We ended up re-milling the negatives in order to account for shrinkage in the plastic part, which led to very well-fitted yo-yos. 
+
 I also did design for the thermoform parts, both drawing the background image and creating the resin-printed thermoform negatives. 
 
 <img src="../../../assets/img/sun-bg-square.png" width=550px height=auto/>
 
 <img src="../../../assets/img/resin-blank.jpg" width=550px height=auto/>
 
-The sun background image was printed onto a clear sheet of plastic, then thermoformed. For the ink to not crack while the plastic is stretching, it first needs to be coated with a setting spray. 
+The sun background image was printed onto a clear sheet of plastic, after which I used the thermoforming machine and punch to shape the plastic pieces for assembly. For the ink to not crack while the plastic is stretching, it first needed to be coated with a setting spray. 
 
 These were the thermoformed printed pieces, in the middle of testing the coating: 
 
 <img src="../../../assets/img/thermoform.jpg" width=550px height=auto/>
 
-After completing the requisite 50 yoyos, our team joined the manufacturing challenge and completed another 59 more in the span of nine total hours. 
+After completing the requisite 50 yoyos, our team joined the manufacturing challenge and completed another 59 more in the span of nine total lab hours. 
 
 
 <img src="../../../assets/img/yoyo-all.jpg" width=550px height=auto/>

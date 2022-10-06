@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Heat Transfer Research Project"
+img: 2671-icon.png # Add image post (optional)
+date: 2022-08-29 00:00:00 +0007
+description: # Add post description (optional)
+tag: #none 
+---
+
+In one of my classes, I spent the Spring 2022 semester working on a research project titled "Denim Fabric as Heat Protection". This class was designed for students to gain practice with measurement and instrumentation, and students chose their own projects to pursue throughout the semester. 
+
+Due to my interest in fire-spinning, I chose to research the rate of heat transfer through different thicknesses of cotton jeans. The results of the experimentation were compiled in a poster that I created and a paper that I wrote. 
+
+
+<iframe src="../../../assets/img/DenimFabricAsHeatProtection.pdf" width="100%" height="800"></iframe>
+
+<a href="../../../assets/img/EfficacyOfDenimFabricInProtectingAgainstHighHeat.pdf">The full paper can be downloaded here.</a>

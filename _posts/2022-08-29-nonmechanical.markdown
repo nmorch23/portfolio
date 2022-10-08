@@ -18,7 +18,7 @@ During the time I was on the exec, we brought the club back from being decimated
 Here is a video of my performance at the 2021 Novemburn show: 
 
 <iframe width="840" height="630"
-src="https://www.youtube.com/embed/v=RfOhCzBt0Qs">
+src="https://www.youtube.com/embed/RfOhCzBt0Qs">
 </iframe> 
 
 ### Centrifugues
@@ -28,7 +28,7 @@ Centrifugues is an MIT a capella group that specializes in mashups and medleys. 
 I was a member of Centrifugues for four years, and Music Director for two semesters. During that time, I also arranged several songs, including the one I soloed for in this video:
 
 <iframe width="840" height="630"
-src="https://www.youtube.com/watch?v=PkfSyM9kwvM">
+src="https://www.youtube.com/embed/PkfSyM9kwvM">
 </iframe>
 
 ### Art 

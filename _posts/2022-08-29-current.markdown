@@ -8,4 +8,29 @@ tag: #none
 ---
 
 
-Nothing to see right now. 
+### 3D Printing
+
+For an additive manufacturing class, I am borrowing an FDM 3D printer (Ender 3) which I set up in my room. 
+
+My classwork has involved running several quality tests on the printer, including printing the same part with varied settings and carefully measuring the results. 
+
+<img src="../../../assets/img/FDMtesters.jpg" width=550px height=auto/>
+
+Outside of class, I've been working on several creative projects. 
+
+#### Bracelet 
+
+I wanted to create a tagged bracelet for use in a live action role playing game, and had access to chain and clasps. This project was severely limited in time: I started the project half an hour before needing to leave for the game. I CADded the tag I wanted to make in OnShape, then started a print, which was supposed to take five minutes. Halfway through the print I realized I had misjudged the size of tag I wanted, and so I adjusted the CAD and started a new print as soon as the previous had finished. I threaded the tag onto the chain and attached a clasp; the finished project from raw material to bracelet took almost exactly half an hour. 
+
+<img src="../../../assets/img/bracelet.jpeg" width=550px height=auto/>
+
+#### Phone Holster
+
+This most recent project is a phone holster designed to hold my phone on my hip. I CADded the plastic piece in OnShape, then printed it on the FDM printer. 
+
+<img src="../../../assets/img/holster_printing.jpg" width=550px height=auto/>
+
+Then, I attached chain and clasps so that it would fit around my body. 
+
+<img src="../../../assets/img/holster.jpg" width=550px height=auto/>
+

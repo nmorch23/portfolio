@@ -10,13 +10,13 @@ tag: #none
 
 ### 3D Printing
 
-For an additive manufacturing class, I am borrowing an FDM 3D printer (Ender 3) which I set up in my room. 
+For an additive manufacturing class, I borrowed an FDM 3D printer (Ender 3) which I set up in my room. 
 
-My classwork has involved running several quality tests on the printer, including printing the same part with varied settings and carefully measuring the results. 
+My classwork involved running several quality tests on the printer, including printing the same part with varied settings and carefully measuring the results. 
 
 <img src="../../../assets/img/FDMtesters.jpg" width=550px height=auto/>
 
-Outside of class, I've been working on several creative projects. 
+Outside of class, I've worked on several creative projects. 
 
 #### Bracelet 
 

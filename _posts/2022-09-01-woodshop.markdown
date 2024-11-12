@@ -53,7 +53,7 @@ Planter Box:
 
 <img src="../../../assets/img/planterbox.jpg" width=550px height=auto/>
 
-#### Trick Box
+### Trick Box
 
 The Trick Box was built as a final project for intro to stagecraft. It has a false lid which turns and shifts dramatically, leading someone to believe they can eventually wiggle it free from the box. The truth is that the false lid is held fast to the sides of the box, and the bottom of the box is removeable. 
 

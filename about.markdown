@@ -8,7 +8,7 @@ permalink: /about/
 
 
 ### Nine Morch
-#### Mechanical Engineering senior at MIT
+#### Mechanical Engineer
 
 My name is Nine Morch. I graduated MIT with a bachelor's in Mechanical Engineering and a minor in theatre arts. Currently, I'm working as a mechanical engineer and pursuing various side projects. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Currently Working On..."
-img: placehold.png # Add image post (optional)
+title: "3D Printing"
+img: 3dp-moose.jpg # Add image post (optional)
 date: 2022-08-29 00:00:00 +0000
 description: # Add post description (optional)
 tag: #none 
@@ -10,13 +10,29 @@ tag: #none
 
 ### 3D Printing
 
-For an additive manufacturing class, I borrowed an FDM 3D printer (Ender 3) which I set up in my room. 
+I have an Ender3 FDM printer that I use for various projects. 
 
-My classwork involved running several quality tests on the printer, including printing the same part with varied settings and carefully measuring the results. 
+#### Minifigures
 
-<img src="../../../assets/img/FDMtesters.jpg" width=550px height=auto/>
+For table top role playing games, such as D&D, I print minifigures for my housemates and I to use. While 3D printed minifigures are relatively common, they're mostly done in SLA/Resin as it has much higher fidelity to capture detail on minis. 
 
-Outside of class, I've worked on several creative projects. 
+Having only an FDM printer, I spent plenty of time tweaking various settings in order to make sure minis printed correctly, including finicky pieces such as weapons, staffs, and fairy wings. 
+
+I mainly changed support settings, increasing or decreasing support distance from the model, changing support structure, and so on. Too little support made the model fail to print, but too much support would trap the model and make it break during removal. 
+
+<img src="../../../assets/img/3dp-paliki1-side.jpg" width=400px height=auto/> <img src="../../../assets/img/3dp-paliki2-side.jpg" width=400px height=auto/>
+
+<img src="../../../assets/img/3dp-paliki1-front.jpg" width=400px height=auto/> <img src="../../../assets/img/3dp-paliki2-front.jpg" width=400px height=auto/>
+
+The lower two images are of a Harengon ranger before print setting tweaks, and the upper two images are after print setting tweaks. 
+
+Here are some other models I printed: 
+
+<img src="../../../assets/img/3dp-moose.jpg" width=400px height=auto/> <img src="../../../assets/img/3dp-fairy.jpg" width=400px height=auto/>
+
+<img src="../../../assets/img/3dp-wizard.jpg" width=400px height=auto/> <img src="../../../assets/img/3dp-gunslinger.jpg" width=400px height=auto/>
+
+<img src="../../../assets/img/3dp-bowgoblin.jpg" width=400px height=auto/> <img src="../../../assets/img/3dp-swordgoblin.jpg" width=400px height=auto/>
 
 #### Bracelet 
 
@@ -26,7 +42,7 @@ I wanted to create a tagged bracelet for use in a live action role playing game,
 
 #### Phone Holster
 
-This most recent project is a phone holster designed to hold my phone on my hip. I CADded the plastic piece in OnShape, then printed it on the FDM printer. 
+This project is a phone holster designed to hold my phone on my hip. I CADded the plastic piece in OnShape, then printed it on the FDM printer. 
 
 <img src="../../../assets/img/holster_printing.jpg" width=550px height=auto/>
 

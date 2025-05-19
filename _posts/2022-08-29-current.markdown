@@ -12,6 +12,15 @@ tag: #none
 
 I have an Ender3 FDM printer that I use for various projects. 
 
+#### Dynamic Prop Sorters
+
+I performed in the MIT Spinning Arts show Road to Hell, a first-of-its-kind fireshow set to the music of Hadestown. The show was uniquely complicated because unlike a normal show, where performers typically prepare for their set, perform their set, then are finished, performers were performing in multiple songs and taking on showrunning roles between songs. A week before the show, a dress rehearsal revealed that the rope-based props spun in the show were being stored on a bench together, but it was very hard to pick out the right rope in the dark, and ropes were likely to roll and tangle. The taped labels didn't stay next to the props, and Sharpie on the tape was too hard to read. 
+
+I designed and printed these prop sorters before the next dress rehearsal. They ziptie to the bench and capture the prop's rope. The text is raised, and then painted with a paint marker for heightened visibility. The prop sorters were a success during dress rehearsal and the show, according to performers who dealt with dynamic props. 
+
+<img src="../../../assets/img/dynamics-1.jpeg" width=550px height=auto/>
+<img src="../../../assets/img/dynamics-2.jpeg" width=550px height=auto/>
+
 #### Minifigures
 
 For table top role playing games, such as D&D, I print minifigures for my housemates and I to use. While 3D printed minifigures are relatively common, they're mostly done in SLA/Resin as it has much higher fidelity to capture detail on minis. 
